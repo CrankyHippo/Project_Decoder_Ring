@@ -3,6 +3,8 @@
 Learning objectives
 This project was designed to test my ability to build complex algorithms. Also to test my ability to write unit tests with Mocha and Chai to test my algorithms.
 
+[My Decoder Ring Page](https://crankyhippo.github.io/project_decoder_ring/)
+
 ## Objectives
 * Writing a series of unit tests using Mocha and Chai
 * Using different expect() methods to test your code
