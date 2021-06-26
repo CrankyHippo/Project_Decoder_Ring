@@ -1,7 +1,7 @@
 # Decoder Ring
 
 Learning objectives
-This project was designed to test my ability to build complex algorithms.Also to test my ability to write unit tests with Mocha and Chai to test my algorithms.
+This project was designed to test my ability to build complex algorithms. Also to test my ability to write unit tests with Mocha and Chai to test my algorithms.
 
 ## Objectives
 * Writing a series of unit tests using Mocha and Chai
@@ -10,7 +10,7 @@ This project was designed to test my ability to build complex algorithms.Also to
 
 ### [Caesar Shift](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-### The Caesar cipher is a shift cipher, one of the most easy and most famous encryption systems. It uses the substitution of a letter by another one further in the alphabet.
+The Caesar cipher is a shift cipher, one of the most easy and most famous encryption systems. It uses the substitution of a letter by another one further in the alphabet.
 
 ### [Polybius Square](https://en.wikipedia.org/wiki/Polybius_square)
 
